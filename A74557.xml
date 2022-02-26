@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance touching the office of postage of letters, inland and foreign.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74557</idno>
+            <idno type="STC">Thomason E1064_37</idno>
+            <idno type="STC">ESTC R210357</idno>
+            <idno type="EEBO-CITATION">99869165</idno>
+            <idno type="PROQUEST">99869165</idno>
+            <idno type="VID">169237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169237)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance touching the office of postage of letters, inland and foreign.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 669-680, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf bears an order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169237:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE TOUCHING THE OFFICE OF Poſtage of Letters, Inland and Foreign.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Saturday September</hi> 2. 1654.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169237:2"/>
+            <pb n="669" facs="tcp:169237:2"/>
+            <head>
+               <figure/> AN ORDINANCE Touching the Office of Poſtage of Letters, Inland and Foreign.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas upon the one and twentieth of <hi>March,</hi> One thouſand ſix hundred for<g ref="char:EOLhyphen"/>ty and nine, It was re<g ref="char:EOLhyphen"/>ſolved by the then Parla<g ref="char:EOLhyphen"/>ment, That the Office of Poſt Maſter, Inland and Foreign, were and ought to be in the ſole power of the Parlament, and ſeveral Orders were made by the ſaid Parla<g ref="char:EOLhyphen"/>ment, whereby the management thereof was referred to the Council of State. And
+<pb n="670" facs="tcp:169237:3"/>whereas on the thirtieth day of <hi>June,</hi> One thouſand ſix hundred fifty and three, the then Council of State did by ſpecial Contract de<g ref="char:EOLhyphen"/>miſe, and ſet to farm the ſaid Offices for the Poſtage of Letters both Foreign and In<g ref="char:EOLhyphen"/>land unto <hi>John Manley</hi> of <hi>London,</hi> Eſq; at and under certain Rents, Covenants and Con<g ref="char:EOLhyphen"/>ditions for the benefit and advantage of the Common-wealth: For the confirmation of the ſaid Contract, and the better regulation and due execution of the ſaid Offices, and to the end the ſame may be managed with moſt ſe<g ref="char:EOLhyphen"/>curity and expedition in the Carriage and re<g ref="char:EOLhyphen"/>turn of Letters, as well of the Publique as Private concernment, and that the prices for portage of Letters may be reduced to a lower rate, and more certainty than in former tunes, for the caſe and advantage of the peo<g ref="char:EOLhyphen"/>ple; and alſo for the better enabling the ſaid <hi>John Manley</hi> to perform the ſaid Contract on his part. and to obſerve and fulfil the Condi<g ref="char:EOLhyphen"/>tions and Covenants hereafter in this Ordi<g ref="char:EOLhyphen"/>nance contained;</p>
+            <p>Be it Ordained by His Highneſs the Lord Protector, by and with the conſent of His Council, and it is Declared and Ordained by the Authority aforeſaid, That he the ſaid <hi>John Manley,</hi> his Heirs and Aſſigns, from the ſaid thirtieth day of <hi>June,</hi> One thouſand ſix hundred fifty and three, until the thirtieth day of <hi>July</hi> which ſhall be in the year of our Lord one thouſand ſix hundred fifty and five, ſhall and may for and under the Rents, Conditi<g ref="char:EOLhyphen"/>ons, Clauſes, Proviſoes and agreements
+<pb n="671" facs="tcp:169237:3"/>hereafter in this Ordinance ſet down and mentioned, have, hold, execute and enjoy the ſaid Office of Poſtage of Letters both In<g ref="char:EOLhyphen"/>land &amp; Foreign, together with all the powers, perquiſits and profits to the ſame of right ap<g ref="char:EOLhyphen"/>pertaining, and herein hereafter expreſſed, and ſhall and may by himſelf and ſuch faithfull, able, and well-affected Deputies and under-Officers (for which he ſhall ſtand &amp; be reſpon<g ref="char:EOLhyphen"/>ſal) take and receive ſuch Perquiſits and Pro<g ref="char:EOLhyphen"/>fits only and no more as are herein hereafter particularly mentioned, allowed and expreſ<g ref="char:EOLhyphen"/>ſed, in manner and form as hereafter enſueth.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>And firſt, The ſaid <hi>John Manley</hi> ſhall have the ſole Care and Charge of the Poſtage and Carriage of all Letters and Packets, both Foreign and Inland to and from all perſons; and in all places of <hi>England, Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and to and from all other places within the Dominions of this Common wealth, ex<g ref="char:EOLhyphen"/>cluſive to all others, except for ſuch as ſhall be ſent either by common and known Carriers along with their Carts, Waggons or Pack-Horſes, or by Meſſenger or Meſſengers on purpoſe, or by ſome ſervant, or Friend or Friends, or by ſome Ship or Ships, Veſſel or Veſſels not being Packet-Boats nor Veſ<g ref="char:EOLhyphen"/>ſels, or Boats purpoſely or principally unploy<g ref="char:EOLhyphen"/>ed to carry Letters; All which ſaid Packet-Boats, and other Veſſels and Boats to car<g ref="char:EOLhyphen"/>ry Letters (except only ſuch as ſhall be im<g ref="char:EOLhyphen"/>ployed
+<pb n="672" facs="tcp:169237:4"/>by the ſaid <hi>John Manley,</hi> together with all other Poſts, but ſuch as ſhall likewiſe be thereunto Authorized and impowred by him) are hereby expreſly prohibited, forbidden and ſuppreſſed.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>
+                  <hi>Item,</hi> The ſaid <hi>John Manley,</hi> by himſelf and his ſaid Deputies, Agents, and under-Offi<g ref="char:EOLhyphen"/>cers ſhall, from time to time, and at all times during the continuance of this Ordinance, ſafely and faithfully carry all ordinary &amp; ex<g ref="char:EOLhyphen"/>traordinary Letters &amp; Diſpatches to or from his Highneſs, and to or from His Council, or Secretary of State, or any of them; And to and from all Members of the Legiſlative power, and to and from the Commiſſioners or Committee of the Admiralty or Navy, Generals of the Fleet, General Officers of the Army, Committee of the Army, Com<g ref="char:EOLhyphen"/>mittee for Scotch and Iriſh Affairs, and that by the Common, Ordinary Male or o<g ref="char:EOLhyphen"/>ther ſpeedy and ſafe paſſage as the urgency of the occaſion ſhall or may require.</p>
+               <p>Provided, That whatſoever Letters or Packets (which ſhall not come or be offered by ſome known Publique Seal, or Impreſs to be for the Publique, or ſome of the Affairs above ſpecified) ſhall, for the freeing them from pay or Poſtage, have an Indorſement upon them in theſe words, or to this effect fol<g ref="char:EOLhyphen"/>lowing <hi>(viz.)</hi> Theſe are for the ſervice of
+<pb n="673" facs="tcp:169237:4"/>his Highneſs, or for the ſervice of the Com<g ref="char:EOLhyphen"/>mon-wealth, together with the names of ſuch perſons or their Secretaries or Clerks, who attend them or thoſe ſervices reſpectively, in<g ref="char:EOLhyphen"/>dorſed upon the ſame.</p>
+               <p>
+                  <hi>Item,</hi> That for all other Letters and Packets to or from private perſons, and for private occaſions (and not at all relating to the perſons and publique Affairs mentioned in the former Article being abſolutely free from Pay and Poſtage) he the ſaid <hi>John Man<g ref="char:EOLhyphen"/>ley</hi> ſhall by himſelf his Agents, Deputies or under-Officers receive and take for the car<g ref="char:EOLhyphen"/>riage and poſtage thereof only according to the Rates following, and no other or high<g ref="char:EOLhyphen"/>er rates, <hi>viz.</hi> For every Letter to or from a<g ref="char:EOLhyphen"/>ny place within eighty miles diſtance from <hi>London,</hi> if a ſingle Letter, two pence, and if a double Letter, four pence. And for every Letter at a farther diſtance than eighty miles if a ſingle Letter, three pence, if a double Letter, ſix pence. And for every Letter to or from <hi>Scotland,</hi> if a ſingle Letter, four pence, if a double Letter, eight pence. And to or from <hi>Ireland,</hi> for every ſingle Letter, ſix pence, and every double Letter, twelve pence, and for treble or greater Packets of Letters pro<g ref="char:EOLhyphen"/>portionably.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>
+                  <hi>Item,</hi> To the end a Weekly entercourſe may be continued between <hi>England</hi> and <hi>Ireland,</hi> the ſaid <hi>John Manley</hi> ſhall (over and beſides the
+<pb n="674" facs="tcp:169237:5"/>Packet Boats for Foreign Poſts) and is hereby obliged to maintain one or more Pac<g ref="char:EOLhyphen"/>ket Boats to paſs and repaſs, if not hindred by wind and Weather, weekly between <hi>Milford</hi> and <hi>Waterford,</hi> and between <hi>Cheſter</hi> and <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> or to ſettle ſuch other waies and meanes for a weekly correſpondence between thoſe places as may be equivalent for ſpeed and ſe<g ref="char:EOLhyphen"/>curity with the waies aforeſaid.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>
+                  <hi>Item,</hi> The ſaid <hi>John Manley</hi> ſhall be, and is hereby obliged to maintain and keep one or more Foreign Packet-Boats to be weekly imployed for the Foreign Poſts, as hath been formerly uſed and accuſtomed.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>
+                  <hi>Item,</hi> That for the better carrying on of the Publique ſervice, eſpecially of the Na<g ref="char:EOLhyphen"/>vy, there ſhall be (beſides the ſeveral Po<g ref="char:EOLhyphen"/>ſtages now in uſe) ſettled, maintained and eſtabliſhed by the ſaid <hi>John Manley,</hi> a weekly Poſt between <hi>Dover</hi> and <hi>Portſmouth,</hi> and be<g ref="char:EOLhyphen"/>tween <hi>Portſmouth</hi> and <hi>Salisbury,</hi> and between <hi>London</hi> and <hi>Yarmouth,</hi> and between <hi>Lancaſter</hi> and <hi>Carliſle.</hi>
+               </p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>
+                  <hi>Item,</hi> That for the Foreign Letters im<g ref="char:EOLhyphen"/>ported &amp; exported (other than for <hi>Ireland</hi> and
+<pb n="675" facs="tcp:169237:5"/>
+                  <hi>Scotland,</hi> the rates whereof are before particu<g ref="char:EOLhyphen"/>larly ſet down) the ſaid <hi>John Manley,</hi> ſhall have and by himſelf and his Deputies, Agents and under Officers, receive and take for the Poſtages and Carriage thereof, the Rates heretofore uſed and accuſtomed, and no other nor further rates nor value, for that it is hereby Declared and Ordained, That there ſhall be no increaſe or Rates, nor alteration concerning the ſame.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>That for the more ſpeedy and effectual diſ<g ref="char:EOLhyphen"/>patch of all the ſaid Poſts and Premiſſes, the ſaid <hi>John Manley,</hi> ſhall be, and is hereby obliged to cauſe the ſaid Poſts to run ſeven Miles and hower in Summer, <hi>viz.</hi> From the firſt of <hi>April</hi> to the laſt of <hi>September;</hi> And five miles an hower in Winter, <hi>viz.</hi> For the reſt of the year.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>
+                  <hi>Item,</hi> That the ſaid <hi>John Manley</hi> ſhall be and is hereby obliged to take order for, and cauſe every his under Poſt-Maſter or Depu<g ref="char:EOLhyphen"/>ty, at his ſeveral Stage, to have in readineſs one good Horſe or Mare to receive and carry the Male of Letters from time to time, that the ſame may not be ſtaied at any Stage a<g ref="char:EOLhyphen"/>bove half a quarter of an hour at moſt: And for the more ſpeedy diſpatch thereof, that no other perſon (beſides the Poſt that carrieth
+<pb n="676" facs="tcp:169237:6"/>the Male) be ſuffered to ride Poſt with the Male.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>That the ſaid <hi>John Manley</hi> ſhall be, and is hereby obliged to provide Poſt-hories at eve<g ref="char:EOLhyphen"/>ry Stage, for all ſuch perſons as ſhall by eſpecial Warrant of his Highneſs, His Coun<g ref="char:EOLhyphen"/>cil, any of the Generals at Sea, Commiſſi<g ref="char:EOLhyphen"/>oners of the Admiralty and Navy, Secre<g ref="char:EOLhyphen"/>tary of State, General Officer of the Ar<g ref="char:EOLhyphen"/>my, Commanders of any Garriſon, or Com<g ref="char:EOLhyphen"/>manders of any Squadron or Ship of the Navy of the Common-wealth, be authorized to ride Poſt.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>That for the reaſons aforeſaid none but the Poſt-Maſters, deputed and approved of by the ſaid <hi>John Manley,</hi> upon the ſeveral Roads, ſhall horſe any perſon Poſt; and that the ſaid Poſt-Maſters upon the Roads, depu<g ref="char:EOLhyphen"/>ted by the ſaid <hi>John Manley,</hi> ſhall not receive or take, from any perſon or perſons riding poſt as aforeſaid, above the rate of three pence a mile for each Poſt-horſe, being the Rates in ſuch caſe formerly uſed and accuſtomed. And to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> there may be a conſtant and ſuffici<g ref="char:EOLhyphen"/>ent moviſion at every Stage for the Horſing o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch as ſhall have ſuch Warrant as afore<g ref="char:EOLhyphen"/>ſaid, to take Poſt-horſes, the ſaid <hi>John Man<g ref="char:EOLhyphen"/>ley,</hi> ſhall be, and is hereby obliged to cauſe e<g ref="char:EOLhyphen"/>very
+<pb n="677" facs="tcp:169237:6"/>Poſt-Maſter, deputed by him, to keep u<g ref="char:EOLhyphen"/>ſually and conſtantly at every Stage, the number of four good Horſes or Mares at the leaſt for the ſaid Poſt-ſervice.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>
+                  <hi>Item,</hi> That the ſaid <hi>John Manley</hi> ſhall tru<g ref="char:EOLhyphen"/>ly and faithfully pay unto ſuch Treaſurer or Receiver, as His Highneſs the Lord Prote<g ref="char:EOLhyphen"/>ctor ſhall appoint, to the uſe of the Common-wealth, the ſumm of ten thouſand pounds yearly, by quarterly payments, at and upon ſuch daies and times as he hath promiſed and ſecured the payments of the ſame.</p>
+               <p>And it is hereby Declared and Ordained, and be it Eſtabliſhed and Ordained by the Authority aforeſaid, That to the end the ſaid <hi>John Manley</hi> may be the better enabled to pay the ſaid yearly rent at the quarterly rent daies as aforeſaid, and to do and perform the ſeveral Agreements on his part to be perfor<g ref="char:EOLhyphen"/>med as aforeſaid, and for and in conſiderati<g ref="char:EOLhyphen"/>on of the ſaid Rents and Agreements, That he the ſaid <hi>John Manley,</hi> for himſelf, his Depu<g ref="char:EOLhyphen"/>ties and under Officers, ſhall have and enjoy the Priviledges, Exemptions, Freedoms and Immunities hereafter ſpecified.</p>
+            </div>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>That in reſpect of the neceſſary and con<g ref="char:EOLhyphen"/>ſtant attendance of the ſaid <hi>John Manley,</hi> and
+<pb n="678" facs="tcp:169237:7"/>others imployed under him in the execution of the Premiſſes, as well by day as by night; That therefore the ſaid <hi>John Manley,</hi> as alſo his under Poſt-Maſter or Deputy at every Stage, and two Servants at every of the ſaid Stages, are hereby, and ſhall be from time to time during the term aforeſaid, freed and diſcharged of and from all and all man<g ref="char:EOLhyphen"/>ner of Preſſes and Muſters, and of and from all and all manner of Summons and perſonal appearance and attendance upon or at any Aſſizes, Seſſions, Iuries, In<g ref="char:EOLhyphen"/>queſis, and other Offices or Duties requir<g ref="char:EOLhyphen"/>ing perſonal attendance.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>That no perſon or perſons whatſoever, beſides the ſaid <hi>John Manley,</hi> his Deputies and Vnder-Officers, ſhall be allowed or ſuffe<g ref="char:EOLhyphen"/>red to ſet up any Poſt, or keep Horſes, or a<g ref="char:EOLhyphen"/>ny Packet-Boat or Boats for the carrying or ſending of Letters Inland or Foreign.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>That all Poſts, and Carriers of Letters, poſt to or from <hi>Dover, Yarmouth, Norwich, Wincheſter, Lynn, Bury, Oxford, Cambridge, Southampton, Plymouth, York, Lincoln, Bri<g ref="char:EOLhyphen"/>ſtoll, &amp;c.</hi> or to or from any other Town or Place within this Common-wealth, or the Dominions thereto belonging, without De<g ref="char:EOLhyphen"/>putation, Licenſe or Allowance of, from
+<pb n="679" facs="tcp:169237:7"/>and under the ſaid, <hi>John Manley,</hi> ſhall and are hereby prohibited, forbidden and ſup<g ref="char:EOLhyphen"/>preſſed.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>That if any perſon or perſons what<g ref="char:EOLhyphen"/>ſoever, ſhall offend againſt any thing in theſe two laſt preceding Articles, or carry any Letters poſt, notwithſtanding the ſaid pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tion of the ſaid two laſt Articles, or do any other Act or Thing to the Dam<g ref="char:EOLhyphen"/>mage, Prejudice or Hinderance of the ſaid <hi>John Manley,</hi> in the free holding and injoy<g ref="char:EOLhyphen"/>ing the ſaid Office of Poſt-Maſter General as aforeſaid, or any of the Premiſſes to him by this Ordinance granted or allow<g ref="char:EOLunhyphen"/>ed; he the ſaid <hi>John Manley</hi> ſhall have by virtue hereof his ſpeciall action upon the Caſe againſt ſuch perſon and perſons ſo of<g ref="char:EOLhyphen"/>fending, to be commenced in the Court of Exchequer, and if the Verdice paſs for the Plaintiff, he ſhall by Iudgement of the ſaid Court of Exchequer, recover double Dammages, and have double Coſts awarded him in every ſuch action.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>That no perſon or perſons warranted to ride Poſt, ſhall ride above one Stage upon the ſame Poſt-horſes without conſent of the Owners of the ſaid Horſes, or the Poſt-Maſters from whom he or they ſhall hire the
+<pb n="680" facs="tcp:169237:8"/>ſame to the wrong of ſuch Horſes, and preju<g ref="char:EOLhyphen"/>dice of the Poſts; and if any ſhall attempt to do the contrary, the next Magiſtrate, Conſtable or Officer, upon Compliant there<g ref="char:EOLhyphen"/>of made, ſhall ſtay the ſaid Offenders, and diſcharge them off the ſaid Horſes, and like<g ref="char:EOLhyphen"/>wiſe cauſe them to make reaſonable ſatisfacti<g ref="char:EOLhyphen"/>on for the wrong therein done.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>And it is hereby further Eſtabliſhed and Ordained, That (in reſpect of the ſaid Rents to be paid for the increaſe of the Publique Revenue, and Services to be done and per<g ref="char:EOLhyphen"/>formed by the ſaid <hi>John Manley</hi> as aforeſaid) the ſaid Office and Offices of Poſt-Maſter General, and poſtage of Letters hereby gran<g ref="char:EOLhyphen"/>ted to the ſaid <hi>John Manley,</hi> ſhall be abſolutely freed and diſcharged of and from all man<g ref="char:EOLhyphen"/>ner of Taxes and Aſſeſsments from time to time during ſuch term as he ſhall hold and execute the ſame, and that neither the ſaid <hi>John Manley,</hi> nor any under Deputie or Officer under him, ſhall for or in reſpect of the ſaid Office or Offices, or any of the premiſ<g ref="char:EOLhyphen"/>ſes hereby granted, be taxed or aſſeſſed, or a<g ref="char:EOLhyphen"/>ny waies be compelled to pay any rate, tax or aſſeſſment, but that he and they (at and under the Rents and Conditions aforeſaid) may be at all times during the ſaid Term hereafter there from freed to all intents and purpoſes.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:169237:8"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Saturday September</hi> 2. 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
